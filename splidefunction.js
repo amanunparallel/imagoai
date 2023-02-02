@@ -12,7 +12,7 @@ function slider1() {
       speed: 600,
       dragAngleThreshold: 30,
       autoWidth: false,
-      rewind: true,
+      rewind: false,
       rewindSpeed: 400,
       waitForTransition: false,
       updateOnMove: true,
