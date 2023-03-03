@@ -3,7 +3,7 @@
 const { Application, Geometry, Mesh, Texture, Shader } = PIXI;
 const assets = {
   texture:
-    "https://uploads-ssl.webflow.com/6398244f3e820011a013d22a/63bba36d076d75e1dc7872dd_63b67bd5b51823b3b1aa3748_blobs%20bg%20with%20less%20(1).png",
+    "https://cdn.jsdelivr.net/gh/amanunparallel/imagoai/imagoheroBanner.png",
 };
 const canvas = document.getElementById("mycanvas");
 
